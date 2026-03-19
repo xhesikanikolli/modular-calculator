@@ -1,6 +1,6 @@
 # Calculator
 
-A simple calculator toolkit written in Python, with several UIs.
+A simple calculator toolkit written in Python, with several UIs, cloned by Xhesika.
 
 ## Remarks
 
